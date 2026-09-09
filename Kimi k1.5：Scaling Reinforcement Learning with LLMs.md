@@ -1,5 +1,3 @@
-可以。下面我按一份**技术分享/论文精读文档**的方式，系统拆解 **《Kimi k1.5: Scaling Reinforcement Learning with LLMs》**。整体结构会更偏工程技术文档，而不是简单论文摘要。
-
 # Kimi k1.5：Scaling Reinforcement Learning with LLMs 技术解析
 
 > 论文：**Kimi k1.5: Scaling Reinforcement Learning with LLMs**
